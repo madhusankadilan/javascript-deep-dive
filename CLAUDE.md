@@ -60,7 +60,8 @@ Not every file is runnable yet:
 
 Prefix every commit message with `[JDD]`, e.g. `[JDD] Add coercion notes and exercises`.
 
+Work is committed on a feature branch (currently `add-core-js-notes`), not on `main`. It is merged to `main` through a merge request once the work is complete; don't merge or push to `main` directly.
+
 ## Notes
 
-- `.idea/` is JetBrains config and is not committed.
 - An earlier lesson, `01-placing-js-code/index.html` (script placement, `defer`/`async`, `DOMContentLoaded`), was added and then removed in git history.
