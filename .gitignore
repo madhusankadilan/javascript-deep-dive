@@ -2,6 +2,9 @@
 .idea/
 .vscode/
 
+# Claude Code personal settings
+.claude/settings.local.json
+
 # macOS
 .DS_Store
 
